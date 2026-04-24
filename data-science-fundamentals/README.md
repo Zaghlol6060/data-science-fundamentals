@@ -87,18 +87,13 @@ data-science-fundamentals/
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/data-science-fundamentals.git
-cd data-science-fundamentals
-```
 
-### 2. Install dependencies
+### . Install dependencies
 ```bash
 pip install pandas numpy matplotlib jupyter
 ```
 
-### 3. Launch Jupyter
+### . Launch Jupyter
 ```bash
 jupyter notebook
 ```
@@ -107,29 +102,11 @@ Then open any notebook from the `notebooks/` folder.
 
 ---
 
-## 🗺️ Learning Roadmap
-
-These notebooks are **Step 1** of my AI Developer journey:
-
-```
-✅ Step 1 — Python Core Libraries  ← You are here
-⬜ Step 2 — Machine Learning (Scikit-learn)
-⬜ Step 3 — Deep Learning (PyTorch)
-⬜ Step 4 — Computer Vision (OpenCV + YOLO)
-⬜ Step 5 — NLP & LLMs (HuggingFace + LangChain)
-```
-
----
-
 ## 👤 Author
 
-**[Your Name]**  
+**[Abdulrahman Hany Mosad Zaghlol]**  
 AI Engineering Student @ Mansoura National University  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+📧 zaghlolabdo844@gmail.com 
+🔗 [LinkedIn](www.linkedin.com/in/abdalrahman-zaghlol-484a7a387) ·
 
----
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
