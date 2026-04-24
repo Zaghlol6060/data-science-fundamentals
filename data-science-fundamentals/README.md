@@ -107,6 +107,6 @@ Then open any notebook from the `notebooks/` folder.
 **[Abdulrahman Hany Mosad Zaghlol]**  
 AI Engineering Student @ Mansoura National University  
 📧 zaghlolabdo844@gmail.com 
-🔗 [LinkedIn](www.linkedin.com/in/abdalrahman-zaghlol-484a7a387) ·
+🔗 [LinkedIn]([www.linkedin.com/in/abdalrahman-zaghlol-484a7a387](https://www.linkedin.com/in/abdalrahman-zaghlol-484a7a387/)) ·
 
 
